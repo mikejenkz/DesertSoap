@@ -1,2 +1,2 @@
-# SQu SCHEMA
+# SQL SCHEMA
 
